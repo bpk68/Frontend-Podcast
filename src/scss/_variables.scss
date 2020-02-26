@@ -1,12 +1,18 @@
 // Fonts
-$font-primary: 'Karla', sans-serif;
+$font-primary: 'Spartan', sans-serif;
+$font-headings: 'Sanchez', serif;
+
+// Brand
+$brand-green: #c9e265;
+$brand-yellow: #ffbd59;
+$brand-blue: #1e365c;
 
 // Colors
-$color-accent: #71b500; //#85d500; //#99e265;
+$color-accent: $brand-yellow; //#85d500; //#99e265;
 $gray: #a1a1a7;
 $gray-dark: #414141; //#535358;
 $gray-darkest: #2f313d;
 $gray-light: #d8d8d8;
 $gray-lighter: #e5e7e9;
 $gray-lightest: #f9f9fb;
-$yellow: #fffac4;
+$yellow: $brand-yellow;

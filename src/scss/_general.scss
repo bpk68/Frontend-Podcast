@@ -8,8 +8,8 @@ html {
 }
 
 body {
-  background: #fff;
-  color: $gray-dark;
+  background: #303030;
+  color: #c5c5c5;
   line-height: 1.66667;
 }
 
@@ -22,8 +22,21 @@ a {
 }
 
 a:hover {
-  color: $gray-darkest;
+  color: $brand-green;
   text-decoration: underline;
+}
+
+.content {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: $font-headings;
+    color: $brand-yellow;
+  }
 }
 
 h1,
@@ -31,8 +44,11 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-  color: $gray-darkest;
+h6,
+.title,
+.subtitle {
+  font-family: $font-headings;
+  color: $brand-yellow;
   font-weight: bold;
   line-height: 1.2;
   text-rendering: optimizeLegibility;
@@ -79,6 +95,10 @@ h6:first-child {
 
 p {
   margin: 0 0 1.66667em;
+}
+
+strong {
+  color: inherit !important;
 }
 
 address {

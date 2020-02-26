@@ -1,15 +1,14 @@
 ---
 templateKey: index-page
-title: Rob Kendal; front end developer
-image: /img/trianglify.png
-avatarimage: /img/38687284.jpg
-heading: Rob Kendal; front-end developer
-subheading: My name is Rob Kendal. I'm a front-end developer and award-winning marketer, based in beautiful Yorkshire. Welcome to the mind-meld.
-description: This is the website of Rob Kendal
+title: The Front End Podcast
+image: /img/frontend-podcast-bg.png
+avatarimage: /img/podcast-icon.png
+heading: The Front End
+subheading: A podcast all about web development, learning, careers in tech, and coding origin stories
+description: This is the official website for The Front End Podcast
 intro:
-  heading: What is a Rob?
+  heading: What is The Front End all about?
   description: >
-    Rob is an experienced UI developer and marketer who likes simple, organised thinking and making clever things happen in progressive web apps. 
-    I like JavaScript (a lot!), React (amongst other frameworks), and solving problems. 
-    You can find me working at <a href="https://www.iamcloud.com">IAM Cloud</a>. Drop by and say hi on me[at]robkendal.co.uk.
+    In The Front End podcast, we explore the in's and out's of life as a developer. We delve into challenging topics around modern-day development and technology including learning 
+    and professional growth, programming languages, frameworks, tools, techniques, UX/UI, and careers.
 ---

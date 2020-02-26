@@ -15,3 +15,29 @@
   text-align: initial;
   vertical-align: inherit;
 }
+
+.tag {
+    background-color: transparent !important;
+    color: $brand-green !important;
+}
+
+.notification {
+
+  &.is-primary {
+
+    h2, 
+    h3 {
+      color: $brand-blue;
+    }
+
+    .button {
+      border: 1px solid $brand-blue;
+      font-weight: 500;
+
+      &:hover {
+        background-color: $brand-blue;
+        color: $gray-light;
+      }
+    }
+  }
+}

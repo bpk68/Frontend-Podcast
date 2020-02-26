@@ -16,12 +16,12 @@
             }
             .media-left {
                 margin-left: 0;
-                min-width: 15%;
+                max-width: 20%;
             }
 
             .post-thumbnail {
-                display: block;
-                margin-top: 1.5em;
+                max-width: 8rem;
+                margin-top: 0em;
 
                 img {
                     border-radius: 3px;

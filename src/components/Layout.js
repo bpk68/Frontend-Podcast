@@ -4,12 +4,9 @@ import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 
 import './all.sass';
-//import 'prismjs/themes/prism-okaidia.css';
 import '../scss/styles.scss';
 
 import useSiteMetadata from './SiteMetadata'
-import ScriptsLoader from '../components/ScriptsLoader';
-
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -35,44 +32,25 @@ const TemplateWrapper = ({ children }) => {
         <link rel="icon" type="image/png" sizes="96x96" href="/img/icons/favicon-96x96.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png" />
         <link rel="manifest" href="/img/icons/manifest.json" />
-        <link defer href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet" />
+        <link defer href="https://fonts.googleapis.com/css?family=Sanchez|Spartan:400,600,700&display=swap" rel="stylesheet" />
         <meta name="theme-color" content="#fff" />
 
-        <meta property="og:site_name" content="Kendal Mint Code" />
+        <meta property="og:site_name" content="The Front End Podcast" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
-        <meta property="og:image" content="/img/logo.png" />
+        <meta property="og:image" content="/img/frontendpodcast-logo.png" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:label1" content="Written by" />
         <meta name="twitter:data1" content="Rob Kendal" />
-        <meta name="twitter:site" content="@kendalmintcode" />
-        <meta name="twitter:creator" content="@kendalmintcode" />
+        <meta name="twitter:site" content="@frontendpodcast" />
+        <meta name="twitter:creator" content="@frontendpodcast" />
 
-        {/* <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script> */}
-        {/* <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105680907-5"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-
-              gtag('config', 'UA-105680907-5');
-            `,
-          }}
-        /> */}
       </Helmet>
       <Navbar />
       <div>{children}</div>
       <Footer />
-
-      {/* <script src='/js/app.js' type="text/javascript"></script> */}
-
-      <ScriptsLoader />
-
-      <script id="dsq-count-scr" src="//robkendal.disqus.com/count.js" async></script>
     </div>
   )
 }

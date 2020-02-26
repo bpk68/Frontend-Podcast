@@ -2,10 +2,10 @@ var proxy = require("http-proxy-middleware")
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://robkendal.co.uk',
-    title: 'Kendal Mint Code - Rob Kendal, front-end developer and marketer',
+    siteUrl: 'https://thefrontendpodcast.site',
+    title: 'The Front End - A podcast about tech, development, careers and user interfaces',
     description:
-      'I\'m Rob Kendal, an award- winning marketer and front- end developer(and, occasionally a guitarist) living in the beautiful Yorkshire countryside and working for the University of York.',
+      'A podcast exploring life as a modern day developer, with stories, learning and professional growth, recruitment, and tech careers',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -92,7 +92,7 @@ module.exports = {
             }
           `,
             output: "/rss.xml",
-            title: "Rob Kendal Articles RSS Feed",
+            title: "The Front End Podcasts Episodes RSS Feed",
           },
         ],
       },
@@ -152,15 +152,15 @@ module.exports = {
   ],
   // for avoiding CORS while developing Netlify Functions locally
   // read more: https://www.gatsbyjs.org/docs/api-proxy/#advanced-proxying
-  developMiddleware: app => {
-    app.use(
-      "/.netlify/functions/",
-      proxy({
-        target: "http://localhost:9000",
-        pathRewrite: {
-          "/.netlify/functions/": "",
-        },
-      })
-    )
-  },
+  // developMiddleware: app => {
+  //   app.use(
+  //     "/.netlify/functions/",
+  //     proxy({
+  //       target: "http://localhost:9000",
+  //       pathRewrite: {
+  //         "/.netlify/functions/": "",
+  //       },
+  //     })
+  //   )
+  // },
 }

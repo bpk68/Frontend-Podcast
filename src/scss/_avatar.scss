@@ -3,9 +3,9 @@
 }
 
 .hero-avatar .avatar {
-  border: 4px solid $color-accent;
+  border: 4px solid $brand-green;
   border-radius: 100%;
-  box-shadow: 0 0 1px 11px rgba($color-accent,.15), 0 0 1px 22px rgba($color-accent,.1);
+  box-shadow: 0 0 1px 11px rgba($brand-green,.15), 0 0 1px 22px rgba($brand-green,.1);
   display: inline-block;
   height: 130px;
   width: 130px;
@@ -14,7 +14,8 @@
 .author-box {
   margin: 2.5em 0 3.33333em;
   padding: 1.66667em 30px;
-  //text-align: center;
+  background-color: $brand-blue;
+  color: $gray-light;
 }
 
 .author-avatar {
@@ -22,9 +23,9 @@
 }
 
 .author-avatar .avatar {
-  border: 2px solid $color-accent;
+  border: 2px solid $brand-green;
   border-radius: 100%;
-  box-shadow: 0 0 1px 7px rgba($color-accent,.1);
+  box-shadow: 0 0 1px 7px rgba($brand-green,.1);
   display: inline-block;
   height: 70px;
   width: 70px;

@@ -34,14 +34,14 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-white"
+        className="navbar is-primary"
         role="navigation"
         aria-label="main-navigation"
       >
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kendal Mint Code" style={{ width: "88px" }} />
+              <img src={logo} alt="The Front End Podcast logo" style={{ width: "88px" }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -62,25 +62,24 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 about
               </Link>
-              <Link className="navbar-item" to="/blog">
-                stories
+              <Link className="navbar-item" to="/episodes">
+                episodes
               </Link>
-              <Link className="navbar-item" to="/faq-for-recruiters">
-                recruitment FAQ
+              <Link className="navbar-item" to="/faq">
+                faq
               </Link>
-              <Link className="navbar-item" to="/the-front-end-podcast">
-                front end podcast
+              <Link className="navbar-item" to="/sponsorship">
+                sponsorship
+              </Link>
+              <Link className="navbar-item" to="/guests">
+                be a guest
+              </Link>
+              <Link className="navbar-item" to="/contact">
+                contact
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              {/* <a
-                className="navbar-item"
-                href="https://mentors.codingcoach.io/?country=GB"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <img src="/img/coding-coach_png.png" alt="Coding Coach Mentor" />
-              </a> */}
+
             </div>
           </div>
         </div>

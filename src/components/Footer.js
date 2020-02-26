@@ -9,7 +9,7 @@ const Footer = class extends React.Component {
         <div className="site-footer-inside">
           <SocialLinks />
           <p className="site-info">
-            <a href="https://robkendal.co.uk">Kendal Mint Code</a> &copy; {new Date().getFullYear()}.
+            <a href="https://thefrontendpodcast.site">The Front End</a> &copy; {new Date().getFullYear()}.
             Powered by <a target="_blank" href="https://www.gatsbyjs.org/" rel="noreferrer noopener">Gatsby</a> and <a target="_blank" rel="noreferrer noopener" href="https://www.netlify.com/">Netlify</a>.
             </p>
           <p className="back-to-top">

@@ -4,7 +4,7 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 //import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import EpisodeRoll from '../components/EpisodeRoll'
 import SocialLinks from '../components/SocialLinks';
 
 export const IndexPageTemplate = ({
@@ -18,22 +18,18 @@ export const IndexPageTemplate = ({
 }) => (
     <>
       <section
-        className="hero is-primary is-medium has-text-dark"
+        className="hero is-primary is-medium has-text-dark page-header home-page-header"
         style={{
           backgroundImage: `url(${
             !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-            })`,
-          backgroundPosition: `top center`,
-          backgroundAttachment: `fixed`,
-          backgroundRepeat: `no-repeat`,
-          backgroundSize: `cover`
+            })`
         }}>
         <div className="hero-body has-text-centered">
           <div className="container">
             <div className="columns">
               <div className="column is-three-fifths is-offset-one-fifth">
                 <p className="hero-avatar">
-                  <img src={!!avatarimage.childImageSharp ? avatarimage.childImageSharp.fluid.src : avatarimage} className="avatar" alt="Rob Kendal" />
+                  <img src={!!avatarimage.childImageSharp ? avatarimage.childImageSharp.fluid.src : avatarimage} className="avatar" alt="The Front End logo" />
                 </p>
                 <h1 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet">
                   {title}
@@ -63,18 +59,19 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
 
-                  {/* <Features gridItems={intro.blurbs} /> */}
-
                   <div className="column is-12">
                     <hr />
                     <p className="subtitle is-size-3">
-                      Latest articles
+                      Latest episodes
                     </p>
                     <p>&nbsp;</p>
-                    <BlogRoll />
+                    <EpisodeRoll />
+
+                    <p>&nbsp;</p>
+                    <hr />
                     <div className="column is-12 has-text-centered">
-                      <Link className="button is-dark" to="/blog">
-                        Read more
+                      <Link className="button is-white" to="/episodes">
+                        View all episodes
                       </Link>
                     </div>
                   </div>

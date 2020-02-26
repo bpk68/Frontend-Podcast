@@ -6,17 +6,16 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: "episodes"
+    label: "Episodes"
+    folder: "src/pages/episodes"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "episode"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Post", name: "featured", widget: "boolean"}
-      - {label: "Feature Image", name: "featuredimage", widget: image}
+      - {label: "Episode Number", name: "episodeNumber", widget: "number"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
@@ -44,9 +43,9 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/faq-for-recruiters/index.md"
-        label: "Faq for recruiters"
-        name: "faq-for-recruiters"
+      - file: "src/pages/faq/index.md"
+        label: "Faq on the podcast"
+        name: "faq"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}

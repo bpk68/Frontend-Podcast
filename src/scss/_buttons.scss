@@ -1,0 +1,11 @@
+.button {
+
+
+    &.is-primary {
+        color: $gray-darkest; // #2d2d2d;
+
+        &:hover {
+            color: $gray-darkest;
+        }
+    }
+}
