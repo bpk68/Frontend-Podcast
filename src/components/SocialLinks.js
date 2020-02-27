@@ -17,11 +17,10 @@ const SocialLinks = props => {
                 <span className="fab fa-google-play" aria-hidden="true"></span>
                 <span className="screen-reader-text">Listen on Google Podcasts</span>
             </a>
-
-            {/* <a href="" target="_blank" rel="noreferrer noopener">
+            <a href="https://podcasts.apple.com/gb/podcast/the-front-end/id1499349107" target="_blank" rel="noreferrer noopener">
                 <span className="fab fa-itunes" aria-hidden="true"></span>
                 <span className="screen-reader-text">Listen on Apple Podcasts</span>
-            </a> */}
+            </a>
             <a href="https://anchor.fm/the-front-end" target="_blank" rel="noreferrer noopener">
                 <span className="fas fa-podcast" aria-hidden="true"></span>
                 <span className="screen-reader-text">Listen to The Front End Podcast on Anchor</span>
