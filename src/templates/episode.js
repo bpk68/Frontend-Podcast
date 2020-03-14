@@ -6,7 +6,6 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import AboutSnippet from '../components/AboutSnippet';
-import EpisodeRoll from '../components/EpisodeRoll';
 
 
 export const EpisodePostTemplate = ({
