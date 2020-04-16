@@ -25,7 +25,7 @@ const SocialLinks = props => {
                 <span className="fas fa-podcast" aria-hidden="true"></span>
                 <span className="screen-reader-text">Listen to The Front End Podcast on Anchor</span>
             </a>
-            <a href="https://thefrontendpodcast.site/rss.xml" target="_blank" rel="noreferrer noopener">
+            <a href="https://anchor.fm/s/13b123a4/podcast/rss" target="_blank" rel="noreferrer noopener">
                 <span className="fas fa-rss" aria-hidden="true"></span>
                 <span className="screen-reader-text">Subscribe to the RSS feed</span>
             </a>

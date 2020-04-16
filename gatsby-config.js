@@ -71,7 +71,7 @@ module.exports = {
                 sort: { order: DESC, fields: [frontmatter___date] },
                 filter: { 
                   frontmatter: { 
-                    templateKey: { eq: "blog-post" },
+                    templateKey: { eq: "episode" },
                     title: { regex: "/^((?!DRAFT).)*$/"  }
                   } 
                 }
