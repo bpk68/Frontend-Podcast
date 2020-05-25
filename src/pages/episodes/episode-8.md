@@ -1,7 +1,7 @@
 ---
 templateKey: episode
 title: 'Emma Bostian talks technical interviews, coding challenges and getting into engineering'
-episodeNumber: 7
+episodeNumber: 8
 date: 2020-05-25T09:30:15.566Z
 description: >-
   Emma talks about her experiences with technical interviews, diversity in tech and how she got into engineering
