@@ -2,7 +2,7 @@
 templateKey: episode
 title: 'Stephanie Stimac talks about her journey from fashion and design into developer experience and web standards on the Microsoft Edge team'
 episodeNumber: 15
-date: 2020-09-21T07:30:00.566Z
+date: 2020-10-05T07:30:00.566Z
 description: >-
   Stephanie is a program manager in the Microsoft Edge team. She's all about making the web a better place and is sharing her story of how she got into tech.
 tags:
@@ -30,7 +30,7 @@ Want to sponsor the show? Head on over to [the sponsorship page](/sponsorship) t
 We mention a few different resources in the show and you can find them here:
 
 - Find [Stephanie on Twitter](https://twitter.com/seaotta/).
-- Visit [Stephanie's website](jhttp://stephaniestimac.com), to find out more about Stephanie and discover her brilliant work.
+- Visit [Stephanie's website](http://stephaniestimac.com), to find out more about Stephanie and discover her brilliant work.
 - Help build a better web via the [Web We Want](https://twitter.com/webwewantfyi)
 - Produce better code using [Web Hint](https://webhint.io/).
 
