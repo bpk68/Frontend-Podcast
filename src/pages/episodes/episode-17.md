@@ -1,9 +1,9 @@
 ---
 templateKey: episode
 title: 'Netlify's Phil Hawksworth talks about modern front end development in the Jamstack, and his route into dev'
-episodeNumber: 17
-date: 2020-11-02T07:33:00.000Z
-description: >-
+episodeNumber:17
+date:2020-11-02T07:33:00.000Z
+description:>-
   Phil shares his career journey from classic ASP into modern front end with the Jamstack and Netlify
 tags:
   - career
