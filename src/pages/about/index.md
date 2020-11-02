@@ -16,7 +16,7 @@ title: About
 
 Rob is a front end developer from sunny Yorkshire, in the UK. He can always be found building lovely user interfaces and tackling challenges using a suite of front end tools and technologies; currently React JS and Bulma.
 
-As a regular blogger on [his personal website](htps://robkendal.co.uk) and [active member of Dev](https://dev.to/kendalmintcode), he loves to give back to the development community via tutorials, helpful career articles and by mentoring 
+As a regular blogger on [his personal website](https://robkendal.co.uk) and [active member of Dev](https://dev.to/kendalmintcode), he loves to give back to the development community via tutorials, helpful career articles and by mentoring 
 upcoming developers on the wonderful [Coding Coach](https://codingcoach.io) platform. 
 
 If you'd like to connect with Rob or discover some of his content then head on over to the various digital places below:
