@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 
-import './all.sass';
+// import './all.sass';
 import '../scss/styles.scss';
 
 import useSiteMetadata from './SiteMetadata'

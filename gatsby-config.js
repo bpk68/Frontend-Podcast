@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: 'https://thefrontendpodcast.site',
     title: 'The Front End - A podcast about tech, development, careers and user interfaces',
     description:
-      'A podcast exploring life as a modern day developer, with stories, learning and professional growth, recruitment, and tech careers',
+        'A podcast exploring life as a modern day developer, with stories, learning and professional growth, recruitment, and tech careers',
   },
   plugins: [
     'gatsby-transformer-sharp',
