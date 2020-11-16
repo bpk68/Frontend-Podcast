@@ -32,7 +32,7 @@ We mention a few different resources in the show and you can find them here:
 
 - Find [Phil on Twitter](https://twitter.com/philhawksworth).
 - Listen to Phil's own podcast [Fish and Scripts](https://twitter.com/fishandscripts).
- - Visit the [Netlify](https://www.netlify.com/) website.
+- Visit the [Netlify](https://www.netlify.com/) website.
 
 You can find out more about me, [Rob Kendal, on my personal website](https://robkendal.co.uk), or [follow me on Twitter](https://twitter.com/kendalmintcode).
 
