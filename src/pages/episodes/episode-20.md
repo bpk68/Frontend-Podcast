@@ -15,11 +15,11 @@ tags:
 
 ## In this Episode
 
-For this final episode in the season [Hassan El Mghari](https://twitter.com/nutlope) joins us to share his incredible journey from high-school student running multiple gaming communities totally almost a million users, founding a gaming marketing company, to pursuing a CS degree and learning full stack development. Hassan talks lessons learned, how to learn in public and the power of long-game effort.
+For this final episode in the season [Hassan El Mghari](https://twitter.com/nutlope) joins us to share his incredible journey from high-school student running multiple gaming communities totalling almost a million users, founding a gaming marketing company, to pursuing a CS degree and learning full stack development. Hassan talks lessons learned, how to learn in public and the power of long-game effort.
 
 ## Listen now
 
-<iframe src="" height="auto" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/the-front-end/embed/episodes/Hassan-El-Mghari-talks-startups-and-lessons-learned-from-running-a-community-of-almost-a-million-users-enneak" height="auto" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Sponsors
 
