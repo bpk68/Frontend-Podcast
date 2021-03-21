@@ -2,7 +2,7 @@
 templateKey: episode
 title: "Jamstack champions Brian Rinaldi and Raymond Camden share the love of the jamstack and their new book all about it"
 episodeNumber: 20
-date: 2020-12-14T07:33:00.000Z
+date: 2021-03-08T07:33:00.000Z
 description: >-
   We quiz Brian and Ray on their upcoming book, The JamStack Book, as well as share some tasty discount codes so you can join in the jamstack fun!
 tags:
