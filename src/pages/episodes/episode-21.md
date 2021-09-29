@@ -1,23 +1,23 @@
 ---
 templateKey: episode
 title: "Jamstack champions Brian Rinaldi and Raymond Camden share the love of the jamstack and their new book all about it"
-episodeNumber: 20
+episodeNumber: 21
 date: 2021-03-08T07:33:00.000Z
 description: >-
   We quiz Brian and Ray on their upcoming book, The JamStack Book, as well as share some tasty discount codes so you can join in the jamstack fun!
 tags:
   - Jamstack
-  - Giveaways 
+  - Giveaways
   - Season-3
 ---
 
 ## In this Episode
 
-In this very first episode of the brand new season 3, we talk to [Brian Rinaldi](https://twitter.com/remotesynth), a dev advocate from [StepZen](https://twitter.com/stepzen_dev), and his partner in crime, [Raymond Camden](https://twitter.com/raymondcamden), a lead developer evangelist for HERE. 
+In this very first episode of the brand new season 3, we talk to [Brian Rinaldi](https://twitter.com/remotesynth), a dev advocate from [StepZen](https://twitter.com/stepzen_dev), and his partner in crime, [Raymond Camden](https://twitter.com/raymondcamden), a lead developer evangelist for HERE.
 
 This Jamstack-loving pair have co-authored a book called The Jamstack Book, which is published by Manning and dives deep into the Jamstack and helps you build up a portfolio of Jamstack-architectured sites including a full-blown e-commerce store.
 
-Now, as a very special reward for you lovely listeners of the show, Manning have been kind enough to offer some free copies of the book and some permanent discount codes so you can snap up a copy for yourself and learn all about the Jamstack. 
+Now, as a very special reward for you lovely listeners of the show, Manning have been kind enough to offer some free copies of the book and some permanent discount codes so you can snap up a copy for yourself and learn all about the Jamstack.
 
 ## Listen now
 
@@ -39,7 +39,7 @@ We mention a few different resources in the show and you can find them here:
 
 We've been gifted a bunch of discounts and free copies by Manning Publications and Brian and Raymond. If you'd like to bag your own copy of The Jamstack Book then you have two options:
 
-### Free copies 
+### Free copies
 
 The guys have generously provided us five free copies. You can grab yours using the link below:
 
@@ -68,11 +68,11 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 ## Transcript
 
-[00:00:00] Rob Kendal: [00:00:00] Welcome everyone to the first episode of season three, I can't believe we're at season three already. And today's show features not one but two whole guests. Today we have Brian Rinaldi and Raymond Camden. Brian is a developer advocate at StepZen in he's also a runs cfe.dev, a friendly online meetup space for developers and is the editor of JAMstacked, an email update on the evolving JAMstack ecosystem. 
+[00:00:00] Rob Kendal: [00:00:00] Welcome everyone to the first episode of season three, I can't believe we're at season three already. And today's show features not one but two whole guests. Today we have Brian Rinaldi and Raymond Camden. Brian is a developer advocate at StepZen in he's also a runs cfe.dev, a friendly online meetup space for developers and is the editor of JAMstacked, an email update on the evolving JAMstack ecosystem.
 
 [00:00:23] His partner in crime. Raymond is a lead developer evangelist working at Here. Uh, location technology company, as well as being a star Wars, nerd and Gammer. Nice. He's often found speaking at conferences and writing lots of helpful articles on a range of JAMstack topics. Now the Jamstack loving pair have co-authored a book called the JAMstack book, which is just published by Manning and deep dives into JAMstack and helps build up a portfolio of JAMstack architected sites, including a full-blown e-commerce store. That's just a brilliant name, the JAMstack book. Now as a very special reward for you. Lovely listeners of the show Manning have been kind enough to put some free copies of the book and some permanent discount codes our way. So you can snap up a copy for [00:01:00] yourself and learn all about the JAMstack.
 
-[00:01:01] I'll link to those in the show notes. And we can talk about it later on.  
+[00:01:01] I'll link to those in the show notes. And we can talk about it later on.
 
 [00:01:04] So welcome both to the show. Very excited to kick off season three, with the double whammy guest combo and an exciting book giveaway no less, how you both doing.
 
@@ -98,7 +98,7 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:03:55] It was an nightmare, you just drop those controls in. And they did like paging tables and things. It was amazing [00:04:00] stuff, but yeah, Tellerik there you go. Blast from the past.
 
-[00:04:02] Brian Rinaldi: [00:04:02] Yeah, yeah, yeah. I was there for six years. Well, they got bought by progress about a year after I got, I was hired, but yeah, it was, 
+[00:04:02] Brian Rinaldi: [00:04:02] Yeah, yeah, yeah. I was there for six years. Well, they got bought by progress about a year after I got, I was hired, but yeah, it was,
 
 [00:04:12] Rob Kendal: [00:04:12] Small world and uh, when did you discover the JAMstack? Was, was that a natural transition for you both or have you seen the huge value in the approach to development and decided to move towards it
 
@@ -212,9 +212,9 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:18:58] Rob Kendal: [00:18:58] That's such a nice approach as well. Cause I, [00:19:00] I think I know. I'm one of those developers, you know, I'm very kind of chalk and cheese on things. And usually it comes down to documentation, but some people like to get in and pull it the bowels of stuff and go along, see how this works. Me. I like a nice kind of descriptive set of developer docs and things to be able to dig in and see how do I do stuff and how do I solve my own problems?
 
-[00:19:17] So sometimes, you know, projects and libraries and frameworks can kind of live or die depending on that for me. So it's nice to give people exposure, like you said, to. Yeah, because ultimately the end user does not care how or why the magic works, but you as developer, they're going to be the one make and maintaining it and so it's nice to give people the exposure to different options and stuff. 
+[00:19:17] So sometimes, you know, projects and libraries and frameworks can kind of live or die depending on that for me. So it's nice to give people exposure, like you said, to. Yeah, because ultimately the end user does not care how or why the magic works, but you as developer, they're going to be the one make and maintaining it and so it's nice to give people the exposure to different options and stuff.
 
-[00:19:36] Is it beginners are fairly experienced devs or is it kind of something for everyone? Is it just, you know, kind of, he's the jamstack and here's some, some options for you and no matter where you are in your development career, you're going to get something useful out of it. 
+[00:19:36] Is it beginners are fairly experienced devs or is it kind of something for everyone? Is it just, you know, kind of, he's the jamstack and here's some, some options for you and no matter where you are in your development career, you're going to get something useful out of it.
 
 [00:19:47] Brian Rinaldi: [00:19:47] Yeah.
 
@@ -246,12 +246,12 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:22:53] I'll mention the kind of links to the, to the discounts and you can go on there and grab the book while it's in early access. And I think it works [00:23:00] on early access where obviously there's no printed copy, but you can get access to the chapters that are alive. And then when it's, when it's complete, it's, it's just a complete book and happy days.
 
-[00:23:08] That's probably about the gist of it. Isn't it. 
+[00:23:08] That's probably about the gist of it. Isn't it.
 
-[00:23:10] Yeah, 
+[00:23:10] Yeah,
 
 [00:23:11] good times. Thank you both so much for coming on. That has been awesome. It's always good to talk about the jamstack. I love the JAMstack. Don't use it as much as I would like to in my normal job, but I, anywhere I can shoehorn a JAMstack project in outside of work, we'll do including this podcast outside of the audio parts, it is a Gatsby driven website, which is slightly over complicated for what the website actually is, but I copied it from my.
 
-[00:23:32] Personal website at the time. Cause it was just easier to change a few colors and that's that's dev life for you: what can we copy and make better? Thank you both so much for coming on. It's been awesome. And we will, I'm sure will enjoy reading the book. When it's out 
+[00:23:32] Personal website at the time. Cause it was just easier to change a few colors and that's that's dev life for you: what can we copy and make better? Thank you both so much for coming on. It's been awesome. And we will, I'm sure will enjoy reading the book. When it's out
 
 [00:23:44] Brian Rinaldi: [00:23:44] Thank you so much.

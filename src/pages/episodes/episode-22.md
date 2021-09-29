@@ -1,13 +1,13 @@
 ---
 templateKey: episode
 title: "Matt Studdert, founder of Frontend Mentor, shares his passion for helping others to learn"
-episodeNumber: 20
+episodeNumber: 22
 date: 2021-03-22T07:33:00.000Z
 description: >-
   Matt tells us how he made the switch from fitness and personal training into founding one of the most popular front end development resources out there today!
 tags:
   - Front-end
-  - Challenges 
+  - Challenges
   - Season-3
 ---
 
@@ -72,7 +72,7 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:04:27] I was pretty booked for clients and everything. And I would then any overspill like new clients to other personal trainers. But the problem is I didn't have like my own GM or anything like that. So it would actually end up with. Them, obviously these personal trainers strike up a personal relationship with these clients that I've given them.
 
-[00:04:49] And then within three to six months, they would just run off with those clients and set up a personal training business as well, like themselves. So I was kind of hitting a ceiling. And I didn't want 
+[00:04:49] And then within three to six months, they would just run off with those clients and set up a personal training business as well, like themselves. So I was kind of hitting a ceiling. And I didn't want
 
 [00:05:00] to buy a gym or like a kind of a studio or anything, because then you go overheads and you're in a whole different ball game.
 
@@ -122,7 +122,7 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:12:36] So so it's one of those things I kind of wanted to do it as well, so that I could get a bit more confident with talking in front of people and especially classrooms with people as well. So it was, it definitely helped with that, which was, which was great.
 
-[00:12:49] Rob Kendal: [00:12:49] Yeah. That's that's yeah, that's incredible. Especially the pressure is magnified, like doing something cold and you've got to type something in everybody's watching. You've got like however many, however, big the cohorts, all at all those eyes looking at you [00:13:00] going, he spelled that variable wrong, but he's 
+[00:12:49] Rob Kendal: [00:12:49] Yeah. That's that's yeah, that's incredible. Especially the pressure is magnified, like doing something cold and you've got to type something in everybody's watching. You've got like however many, however, big the cohorts, all at all those eyes looking at you [00:13:00] going, he spelled that variable wrong, but he's
 
 [00:13:01] missed a semi-colon.
 
@@ -156,7 +156,7 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:17:00] It was like, I took a guns and roses song along to an instructor and he was like, right, well, we will teach you the theory behind it, but then you go and you practice it and people point out, you know, why it's, why it's bad and how you can improve, I suppose. You know, rather than just, you know, we like it or we don't, it's all feedback.
 
-[00:17:14] So that's great. 
+[00:17:14] So that's great.
 
 [00:17:15] Matt Studdert: [00:17:15] Like that was actually the reason why I started in front of mentor in the first place was because my, my advice when I was teaching at general assembly was the students would come out and say, okay, I've got all of this knowledge now, where can I go? And practice? And my advice to them was always just.
 
@@ -188,7 +188,7 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:20:30] And there's so many other things that I've been focusing on that, like, I just haven't got round to it. So. I'm at the moment exploring like headless CMS is like sanity and story block and Keystone and stuff like that, that I could potentially do a co build out a custom API with that, and then add our first ever guru level challenge.
 
-[00:20:48] But But we've got all different types of projects. So we've got components, like small components. We've got newbie challenges, which has like just HTML and CSS and we've like, it could be a pricing 
+[00:20:48] But But we've got all different types of projects. So we've got components, like small components. We've got newbie challenges, which has like just HTML and CSS and we've like, it could be a pricing
 
 [00:21:00] component for instance. Or we've got. Smaller landing pages like coming soon pages and stuff like this with one form input that you'll need to add a bit of client side validation for and then getting on towards the intermediate challenges.
 
@@ -230,7 +230,7 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:27:15] With someone else's court, no matter how good or bad it is. So having that skill to be able to go in and kind of look at it and understand it and work with it. And then, you know, every job you do, you're going to be doing either some pair programming or code reviews at whatever level you're in there. So yeah, that's, I'd never thought about that before, but that is such a great argument.
 
-[00:27:33] You know, to a point that you wouldn't think of, but especially again, any little thing like that, that gives you the edge when it comes to being hired, you know, look, I'm already kind of production ready and 
+[00:27:33] You know, to a point that you wouldn't think of, but especially again, any little thing like that, that gives you the edge when it comes to being hired, you know, look, I'm already kind of production ready and
 
 [00:27:42] Matt Studdert: [00:27:42] There's people, there's people in the community that have recently got hired and they've said like the boss and client for instance, are just unbelievably shocked at how good that. How good they are at taking a design and then building [00:28:00] out the design in kind of a good a good way.
 
@@ -300,7 +300,7 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:37:49] Come with JPEGs for the designs. But then if you're really serious about things and you really want to see the detail and you want to build a unbelievable showstopper [00:38:00] portfolio, then you can take our premium challenges, which are like, some of them are four or five, six page websites with like a design system included in the download and all of this kind of stuff.
 
-[00:38:11] And it's. Basically as professional project as you're ever going to get without it actually being a professional project. So yeah, fundamental pro if you want to build an unbelievable showstopper portfolio to impress the hiring managers, then that's definitely a big shameless plug on my side. Yeah. So it's 12, $12, $12 a month or $96 for a whole year. 
+[00:38:11] And it's. Basically as professional project as you're ever going to get without it actually being a professional project. So yeah, fundamental pro if you want to build an unbelievable showstopper portfolio to impress the hiring managers, then that's definitely a big shameless plug on my side. Yeah. So it's 12, $12, $12 a month or $96 for a whole year.
 
 [00:38:36] Rob Kendal: [00:38:36] cool. And for the English folk
 
@@ -316,6 +316,6 @@ You can find out more about me, [Rob Kendal, on my personal website](https://rob
 
 [00:39:51] And I can attest to that. Having done enough of those, you get dumped a brief and a bunch of design things in the go. Here you go, monkey, make that into a front [00:40:00] end thing. So that's amazing. Thank you so much for coming on. It's been awesome to learn about that and what you, what you're up to. I will put all the information in the show notes, links to front and mentor.
 
-[00:40:08] You can find Matt at underscore, Matt Studdert on Twitter, do give them a follow up and follow front and mentor, which is, is that just at front-end mentor? Nice. There you go. Go and give it a shout and a follow up and excellent.  
+[00:40:08] You can find Matt at underscore, Matt Studdert on Twitter, do give them a follow up and follow front and mentor, which is, is that just at front-end mentor? Nice. There you go. Go and give it a shout and a follow up and excellent.
 
 [00:40:21] Matt Studdert: [00:40:21] Thank you
